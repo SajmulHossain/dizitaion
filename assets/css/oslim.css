@@ -2003,7 +2003,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .main-slider-three .swiper-slide {
     position: relative;
-    background-color: var(--oslim-base);
+    background-color: var(--oslim-gray);
 }
 
 .main-slider-three .image-layer {

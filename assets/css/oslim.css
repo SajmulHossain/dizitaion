@@ -29,7 +29,8 @@
     --oslim-base: #0059b8;
     /* --oslim-base: #00a4eb; */
     /* --oslim-base: #ff613c; */
-    --oslim-base-rgb: 255, 97, 60;
+    --oslim-base-rgb: #00b0f0;
+    /* --oslim-base-rgb: 255, 97, 60; */
     --oslim-extra: #fcf5f3;
     --oslim-extra-rgb: #a8a9ad;
     /* --oslim-extra-rgb: #a8a9ad; */
@@ -2003,7 +2004,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .main-slider-three .swiper-slide {
     position: relative;
-    background-color: var(--oslim-gray);
+    /* background-color: var(--oslim-gray); */
 }
 
 .main-slider-three .image-layer {

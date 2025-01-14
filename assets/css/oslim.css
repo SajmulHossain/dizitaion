@@ -9184,3 +9184,9 @@ input[type="search"]::-webkit-search-results-decoration {
     -webkit-animation-timing-function: linear;
     animation-timing-function: linear;
 }
+
+
+img[src='assets/images/resources/logo-1.png'] {
+    width: 102px;
+    object-fit: cover;
+}

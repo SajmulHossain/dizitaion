@@ -20,8 +20,8 @@
 :root {
     --oslim-font: 'Catamaran', sans-serif;
     --oslim-reey-font: "reeyregular";
-    --oslim-gray: rgb(167, 169, 172);
-    --oslim-gray-rgb: 129, 128, 140;
+    --oslim-gray: #a8a9ad;
+    --oslim-gray-rgb: rgb(167, 169, 172);
     --oslim-white: #ffffff;
     --oslim-white-rgb: 255, 255, 255;
     --oslim-black: #7d8899;

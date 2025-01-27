@@ -9163,3 +9163,22 @@ img[src="assets/images/resources/logo-1.png"] {
     width: 120px;
   }
 }
+
+
+.accordion-button::after {
+  content: '+';
+  background-image: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.accordion-button:not(.collapsed)::after {
+  background-image: none;
+  content: '-';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}

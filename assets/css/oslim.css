@@ -2131,13 +2131,13 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .main-slider-three h2 {
   font-size: 70px;
-  line-height: 60px;
+  line-height: 80px;
   transform: translateY(-120px);
 }
 
 .main-slider-three h2 span {
   font-family: var(--oslim-reey-font);
-  line-height: 95px;
+  /* line-height: 95px; */
   font-weight: 400;
 }
 
@@ -2194,6 +2194,7 @@ input[type="search"]::-webkit-search-results-decoration {
   width: 100%;
   left: inherit;
   top: inherit;
+  bottom: 150px;
   transform: inherit;
   display: flex;
   flex-direction: row;
@@ -6704,7 +6705,7 @@ input[type="search"]::-webkit-search-results-decoration {
 .contact-one__single {
   position: relative;
   display: block;
-  background-color: var(--oslim-white);
+  background-color: var(--oslim-gray);
   border-radius: var(--oslim-bdr-radius);
   padding: 36px 40px 29px;
   margin-bottom: 30px;

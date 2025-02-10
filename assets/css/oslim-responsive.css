@@ -1302,9 +1302,10 @@
         display: none;
     }
 
-    /* .main-slider-three-img-1 {
-        display: none;
-    } */
+    .main-slider-three-img-1 {
+        /* display: none; */
+        width: 100%;
+    }
 
     .main-slider-three-img-2 {
         display: none;

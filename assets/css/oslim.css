@@ -1697,9 +1697,9 @@ input[type="search"]::-webkit-search-results-decoration {
   transform: scale(1.15);
 }
 
-.main-slider .swiper-slide-active .image-layer {
+/* .main-slider .swiper-slide-active .image-layer {
   opacity: 0.4;
-}
+} */
 
 .main-slider-shape-1 {
   position: absolute;
